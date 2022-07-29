@@ -1,4 +1,5 @@
-# Mobile-first
+# Mobile-first 👋 hello, welcome to my repository
+
  Introdução à responsividade.
  
  Variáveis. 
